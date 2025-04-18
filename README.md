@@ -1,6 +1,6 @@
 <h1 align="center">Resolução das Atividades SQL FÍSICO - MY SQL</h1>
 
-## (SQL) - Codiogos Structured Query Language - DDL
+## (SQL) - Codigos Structured Query Language - DDL
 
 ## (DER) - DIAGRAMA DE ENTIDADE E RELACIONAMENTO
 
